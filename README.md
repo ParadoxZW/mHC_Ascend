@@ -274,10 +274,10 @@ If you use this implementation in your research, please cite the original mHC pa
 
 ```bibtex
 @article{xie2025mhc,
-  title={Hyper-Connections},
+  title={mHC: Manifold-Constrained Hyper-Connections},
   author={Xie, Zhenda and Wei, Yixuan and Cao, Huanqi and Zhao, Chenggang and Deng, Chengqi and Li, Jiashi and Dai, Damai and Gao, Huazuo and Chang, Jiang and Zhao, Liang and Zhou, Shangyan and Xu, Zhean and Zhang, Zhengyan and Zeng, Wangding and Hu, Shengding and Wang, Yuqing and Yuan, Jingyang and Wang, Lean and Liang, Wenfeng},
-  journal={arXiv preprint arXiv:2409.19606},
-  year={2024}
+  journal={arXiv preprint arXiv:2512.24880},
+  year={2025}
 }
 ```
 
