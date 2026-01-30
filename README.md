@@ -294,4 +294,4 @@ If you use this implementation in your research, please cite the original mHC pa
 
 ## License
 
-This project is provided for research and educational purposes.
+This project is released under the [MIT License](LICENSE).
