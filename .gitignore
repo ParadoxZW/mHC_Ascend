@@ -1,0 +1,24 @@
+# Build artifacts
+build/
+install/
+*.o
+*.so
+*.a
+*.pyc
+__pycache__/
+*.egg-info/
+
+# IDE
+.vscode/
+.idea/
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
+*.swp
+*~
+
+# Kernel metadata (generated)
+kernel_meta/
